@@ -1,0 +1,242 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.alpha {
+  background-color: #F9D1AC;
+}
+
+
+.segundocabeçalho {
+  background-color: #e3b488;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  height: 50%;
+
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px;
+
+}
+
+.mm:hover a {
+  color: #e3b488;
+}
+
+
+.mm {
+  background-color: #e3b488;
+  color: black;
+  width: 15%;
+  height: 100%;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+}
+
+.mm:hover {
+  color: #e3b488;
+  background-color: rgb(0, 0, 0);
+
+}
+
+.MARQUE {
+  background-color: #000000;
+  color: #e3b488;
+  width: 20%;
+  height: 100%;
+  border-radius: 50px;
+}
+
+.MARQUE:hover {
+  color: #000000;
+  background-color: #000000;
+}
+
+.MARQUE:hover a {
+  color: #e3b488;
+}
+
+.marque {
+  margin: 1cm;
+  font-size: 20px;
+  color: #e3b488;
+  width: 18.75em;
+  height: 1.875em;
+}
+
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.8cm;
+}
+
+
+.infantil {
+  width: 100%;
+  height: 50em;
+}
+
+.subtitulo1 {
+  text-align: center;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5cm;
+  position: relative;
+  top: 7.5em;
+}
+
+.inicio {
+
+  text-align: center;
+  margin: 1% 0% 0% -1%;
+  width: 80%;
+
+}
+
+.títuloobesidade {
+
+  margin: 0% 68% 0% 0%;
+}
+
+.obesidade {
+
+  text-align: center;
+  width: 45%;
+  height: 15%;
+  margin: 1% -8% 0% -36.25em;
+
+}
+
+.obesidade2 {
+  width: 45%;
+  height: 15em;
+  border: 3px solid #2E9E8E;
+  border-radius: 200%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: -20% 0% 0% 55%;
+}
+
+.obesidade3 {
+  width: 25%;
+  height: 2.5em;
+  background-color: #2E9E8E;
+  color: white;
+  border-radius: 0.625em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: -50% 68% 0% 0%;
+
+}
+
+.Autismo {
+  text-align: center;
+  margin: 5% 0% 0% 58%;
+}
+
+.autismo2 {
+  text-align: center;
+  width: 45%;
+  margin: 1% 0% 0% 55%;
+}
+
+.autismo3 {
+
+  width: 10cm;
+  height: 15.625em;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -150px 0px 0px -55px;
+}
+
+.autismo4 {
+
+  width: 200px;
+  height: 40px;
+  background-color: #2E9E8E;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 15px -150px 0px 0px;
+
+}
+
+.es {
+
+  margin: 100px 0px 0px -150px;
+}
+
+.escolar {
+
+  text-align: center;
+  width: 45%;
+  padding-left: 180px;
+  margin: 20px 0px 0px -750px;
+
+}
+
+.escolar2 {
+
+  width: 10cm;
+  height: 250px;
+  float: right;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -150px -15px 0px 0px;
+}
+
+.escolar3 {
+
+  width: 200px;
+  height: 40px;
+  background-color: #2E9E8E;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 15px 200px 0px 0px;
+}
+
+.materno {
+  text-align: center;
+  margin: 100px -250px 0px 0px;
+}
+
+.materno2 {
+
+  text-align: center;
+  width: 45%;
+  margin: 20px -480px 1px 0px;
+}
+
+.materno3 {
+
+  width: 10cm;
+  height: 250px;
+  float: left;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -180px 0px 0px -50px;
+}
+
+.materno4 {
+
+  width: 200px;
+  height: 40px;
+  background-color: #2E9E8E;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 20px -150px 0px 0px;
+}
+
+.corpo {
+  margin: 20%;
+  margin-top: 5%;
+}

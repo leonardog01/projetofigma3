@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .alpha {
+    background-color: #F9D1AC;
+  }
+  
+  
+  .segundocabeçalho {
+    background-color: #e3b488;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 30px;
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 17px;
+  
+  }
+  
+  .mm:hover a {
+    color: #e3b488;
+  }
+  
+  
+  .mm {
+    background-color: #e3b488;
+    color: black;
+    width: 240px;
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+  }
+  
+  .mm:hover {
+    color: #e3b488;
+    background-color: rgb(0, 0, 0);
+  
+  }
+  
+  .MARQUE {
+    background-color: #000000;
+    color: #e3b488;
+    width: 290px;
+    height: 30px;
+    border-radius: 50px;
+    ;
+  }
+  
+  .MARQUE:hover {
+    color: #000000;
+    background-color: #000000;
+  }
+  
+  .MARQUE:hover a {
+    color: #e3b488;
+  }
+  
+  .marque {
+    margin: 1cm;
+    font-size: 17px;
+    color: #e3b488;
+    width: 300px;
+    height: 30px;
+  }
+  
+  
+  h4 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 15%;
+  }
+  
+  
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    width: 60%;
+    margin-top: 2%;
+    
+  }
+  
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.8cm;
+    margin-top: 5%;
+  }
+
+  .amil{
+
+    width: 18%;
+    height: 0%;
+    margin: 5% 0% 0% 0%;
+  }
+
+  .sãocristóvão{
+
+    width: 18%;
+    height: 0%;
+    margin: 5% 0% 0% 0%;
+  }
+
+  .unimed{
+
+    width: 18%;
+    height: 0%;
+    margin: 5% 0% 0% 0%;
+  }
+
+  .notredame{
+
+    width: 18%;
+    height: 0%;
+    margin: 5% 0% 0% 0%;
+  }
+
+  .allianz{
+
+    width: 18%;
+    height: 0%;
+    margin: 5% 0% 0% 0%;
+  }
+
+  .convênios{
+
+    width: 100%;
+    margin: 0% 0% 0% -1%;
+  }
+
+  .amil2{
+
+    width: 15%;
+    margin: 10% 0% 0% 0%;
+  }
+
+  .sãocristóvão2{
+
+    width: 15%;
+    margin: 10% 0% 0% 0%;
+  }
+
+  .unimed2{
+
+    width: 15%;
+    margin: 10% 0% 0% 0%
+  }
+
+  .notredame2{
+
+    width: 15%;
+    margin: 10% 0% 0% 0%
+  }
+
+  .allianz2{
+
+    width: 15%;
+    margin: 10% 0% 0% 0%
+  }
